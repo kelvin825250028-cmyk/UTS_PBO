@@ -1,0 +1,20 @@
+=========================================
+STATUS TRANSAKSI : Transfer Berhasil
+No. Referensi   : 34AD695107B24C01
+Tanggal / Waktu : 06 Okt 2026 20:10:07
+Jenis Transaksi : Transfer ke Rekening Nexabank
+Nominal         : IDR 50.000,00
+Berita          : buat top up
+Pengirim        : Vincent Alexander (1234567890)
+Penerima        : Kelvin (0987654321)
+==================================================================================
+STATUS TRANSAKSI : Transfer Berhasil
+No. Referensi   : 04D5620861EF442C
+Tanggal / Waktu : 06 Okt 2026 20:27:24
+Jenis Transaksi : Transfer ke Nexa Virtual Account
+Nominal         : IDR 150.000,00
+Berita          : beli barang
+Pengirim        : Vincent Alexander (1212212121)
+Penerima        : Edgar (262626919232)
+=========================================
+

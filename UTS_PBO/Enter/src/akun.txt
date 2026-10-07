@@ -1,0 +1,2 @@
+budis,budi1234,CA-01,BUDI SONTOSO,092828382,jl sudirman
+fincode,1234,CA-01,Vincent Alexander,082929328,jl sudirman

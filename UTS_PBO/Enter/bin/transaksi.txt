@@ -1,0 +1,11 @@
+=========================================
+STATUS TRANSAKSI : Transfer Berhasil
+No. Referensi   : A87FE868E0E7444F
+Tanggal / Waktu : 03 Okt 2026 14:53:10
+Jenis Transaksi : Transfer ke Rekening MANDIRI
+Nominal         : IDR 250.000,00
+Berita          : -
+Pengirim        : Vincent (1234567890)
+Penerima        : KELVIN (0987654321)
+=========================================
+
